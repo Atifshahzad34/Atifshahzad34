@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atifshahzad
-- 👀 I’m interested java progarms
+- 👀 I’m interested in java progarms
 - 🌱 I’m currently learning java Basics
 - 💞️ I’m looking to collaborate with java developers
 - 📫 How to reach me whatsapp 03410727692
